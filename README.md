@@ -1,4 +1,3 @@
-![logo](https://github.com/heyysahil/heyysahil/blob/main/banner_logo.gif)
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
 <h3 align="center">A passionate AI Engineer from India</h3>
 
