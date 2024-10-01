@@ -66,21 +66,11 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Designlyfe | [view](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| DevtoGitHub | [Marketplace](https://github.com/marketplace/actions/devtogithub) | [view](https://github.com/Anmol-Baranwal/DevtoGitHub) | `TypeScript` `GitHub Actions` `Forem API` `Postman`| 
-| Audily (Hackathon-24hr) | [view](https://audily-ai.vercel.app/) | [view](https://github.com/Builders-Valley/Audily-AI) | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` | 
-| Handle Multiple Issues | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
-| HTML2PDF | [view](https://html2-pdf.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Html2PDF) | `Next.js` `TypeScript` `Tailwind CSS` `BuildShip`|
-| Arcjet Demo | [view](https://arcjet-demo.vercel.app/) | [view](https://github.com/Anmol-Baranwal/arcjet-demo) | `Next.js` `TypeScript` `Tailwind CSS` `Arcjet JS SDK`|
-| Flutter Portfolio App | - | [view](https://github.com/Anmol-Baranwal/Anmol-Baranwal-Profile) | `Dart` `Flutter` `Dot Navigation Bar`| 
-| WaitSmart | [view](https://wait-smart-chi.vercel.app/) | [view](https://github.com/Anmol-Baranwal/WaitSmart) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
-| Coffee Compass | [view](https://coffee-project-anmol-baranwal.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Coffee-Compass) | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3` |
-| MongoDB Query Fetcher | [view](https://mongodb-query-fetcher.vercel.app/) | [view](https://github.com/Anmol-Baranwal/FullStack-MongoDB-Query-Fetcher) | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman` |
-| Plasmo Chrome Extension | - | [view](https://github.com/Anmol-Baranwal/country-chrome-extension) | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`
-| ToDo List Web App | [view](https://todo-list-k7qu.onrender.com/) | [view](https://github.com/Anmol-Baranwal/ToDo-List-WebApp) | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap` |
-| BabySteps | [view](https://baby-steps-rho.vercel.app/) | [view](https://github.com/Anmol-Baranwal/BabySteps-Project) | `Next.js` `JavaScript` `Postman` `CSS3` |
-| Client's Portfolio | [view](https://anmol-baranwal.github.io/Portfolio-Akanksha/) | [view](https://github.com/Anmol-Baranwal/Portfolio-Akanksha) | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS` |
-| Password Power | [view](https://password-generator-anmol-baranwal.vercel.app/) | - | `JavaScript` `CSS3` `HTML5` |
+| Movie Recommendation System | [view](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
+| Emotion Recognition From Speech | [Marketplace](https://github.com/marketplace/actions/devtogithub) | [view](https://github.com/Anmol-Baranwal/DevtoGitHub) | `TypeScript` `GitHub Actions` `Forem API` `Postman`| 
+| Automated Research Paper Summarizer | [view](https://audily-ai.vercel.app/) | [view](https://github.com/Builders-Valley/Audily-AI) | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` | 
+| Mental Health Chatbot | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
+| Text-to-Speech Converter | [view](https://html2-pdf.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Html2PDF) | `Next.js` `TypeScript` `Tailwind CSS` `BuildShip`|
 | Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
 
 <br>
