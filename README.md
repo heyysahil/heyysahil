@@ -66,12 +66,14 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Movie Recommendation System | [view](https://www.designlyfe.tech/) | - | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS` `Simple Analytics` `Pageclip` `Postman` | 
-| Emotion Recognition From Speech | [Marketplace](https://github.com/marketplace/actions/devtogithub) | [view](https://github.com/Anmol-Baranwal/DevtoGitHub) | `TypeScript` `GitHub Actions` `Forem API` `Postman`| 
-| Automated Research Paper Summarizer | [view](https://audily-ai.vercel.app/) | [view](https://github.com/Builders-Valley/Audily-AI) | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman` | 
-| Mental Health Chatbot | [Marketplace](https://github.com/marketplace/actions/handle-multiple-issues) | [view](https://github.com/Anmol-Baranwal/handle-multiple-issues) | `TypeScript` `GitHub Actions` `GitHub API`| 
-| Text-to-Speech Converter | [view](https://html2-pdf.vercel.app/) | [view](https://github.com/Anmol-Baranwal/Html2PDF) | `Next.js` `TypeScript` `Tailwind CSS` `BuildShip`|
-| Conceptual Mini Projects | - | [view](https://github.com/Anmol-Baranwal/Conceptual-Projects) | `JavaScript` `SCSS` `Tailwind` `jQuery` `Node.JS` `Express.JS` `CSS3` |
+| Movie Recommendation System | - | [view](https://github.com/heyysahil/Movie-Recommendation-System) | `Python` `GenAI` `ML` `AI` `Jupyter Notebook` | 
+| Emotion Recognition From Speech | - | [view](https://github.com/heyysahil/Emotion-Recognition-From-Speech) | `Python` `GenAI` `ML` `AI` `Jupyter Notebook` | 
+| Automated Research Paper Summarizer | - | [view](https://github.com/heyysahil/Automated-Researchpaper-Summarizer) | `Python` `GenAI` `ML` `AI` `Jupyter Notebook` | 
+| Mental Health Chatbot | - | [view](https://github.com/heyysahil/Mental-Health-Chatbot) | `Python` `GenAI` `ML` `AI` `Jupyter Notebook`| 
+| Text-to-Speech Converter | - | [view](https://github.com/heyysahil/Text-to-Speech-Converter) | `Next.js` `HTML` `CSS` `Machine Learning`|
+| Speech-Generation-For-Story-Telling-Code | - | [view](https://github.com/heyysahil/Speech-Generation-For-Story-Telling-Code) | `Python` `GenAI` `ML` `AI` `Jupyter Notebook`|
+| Password Generator System | - | [view](https://github.com/heyysahil/Password-Generator) | `Next.js` `HTML` `CSS`|
+| Customer Churn Prediction | - | [view](https://github.com/heyysahil/Customer-Churn-Prediction) |  `Machine Learning` `Jupyter Notebook` `Python`|
 
 <br>
 
