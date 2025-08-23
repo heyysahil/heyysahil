@@ -41,10 +41,7 @@
 <div>
 <hr>
 
-👋 Hi! I'm Sahil Sharma❤️, a passionate and driven AI Engineer🤖 with a strong foundation in machine learning algorithms and web development.
- Proficient in programming languages such as Python🐍 and C++ with hands-on experience in frameworks like
- TensorFlow, Scikit-learn and OpenCV. Capable of building and deploying Machine Learning models and integrating
- them into web applications for practical, real-world use cases.
+👋 Hi! I'm Sahil Sharma❤️, a passionate and driven AI/ML Engineer🤖 with a strong foundation in machine learning, data science, and data analytics. I specialize in designing and training intelligent models, performing advanced data analysis, and applying statistical methods to extract meaningful insights. With expertise in supervised and unsupervised learning, predictive modeling, and deep learning, I strive to solve complex problems and translate raw data into actionable strategies. My goal is to harness the power of data and AI to build impactful solutions that create real-world value.
 <br>
 <hr>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
